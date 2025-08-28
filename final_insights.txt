@@ -1,0 +1,6 @@
+Netflix Dataset Analysis Summary
+Total Titles: 8807
+Movies: 6131
+TV Shows: 2676
+Top Genre: International Movies
+Top Country: United States
