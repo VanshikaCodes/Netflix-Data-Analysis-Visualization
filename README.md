@@ -17,26 +17,26 @@ A beginner-friendly **Exploratory Data Analysis (EDA) project** on the **Netflix
 ## 📂 Project Structure
 
 ```
-Netflix-EDA-Project/
+
+Netflix-Data-Analysis/
 │
 ├── data/
 │   ├── raw_netflix_data.csv
-│   └── cleaned_netflix_data.csv
-│
+|   └── cleaned_netflix_data.csv
+|
 ├── notebooks/
-│   └── netflix_eda.ipynb
-│
+│   └── netflix_analysis.ipynb
+|
 ├── images/
-│   ├── top_genres.png
-│   ├── release_trend.png
-│   ├── wordcloud.png
-│   └── ratings_distribution.png
-│
-├── src/
-│   ├── data_cleaning.py
-│   └── visualization.py
-│
+│   ├── Top_Genres.png
+│   ├── Release_trend.png
+│   ├── Word_Cloud.png
+│   └── Ratings_Distribution.png
+|
+├── requirements.txt
+|
 └── README.md
+
 ```
 
 ---
@@ -84,19 +84,19 @@ Netflix-EDA-Project/
 
 ### 1️⃣ **Top Genres on Netflix**
 
-![Top Genres](images/top_genres.png)
+![Top Genres](images/Top_Genres.png)
 
 ### 2️⃣ **Trend of Content Release Over Years**
 
-![Release Trend](images/release_trend.png)
+![Release Trend](images/Release_Trend.png)
 
 ### 3️⃣ **Word Cloud of Movie Titles**
 
-![Word Cloud](images/wordcloud.png)
+![Word Cloud](images/Word_Cloud.png)
 
 ### 4️⃣ **Ratings Distribution**
 
-![Ratings Distribution](images/ratings_distribution.png)
+![Ratings Distribution](images/Ratings_Distribution.png)
 
 ---
 
@@ -125,20 +125,7 @@ Contributions are welcome!
 * Create a feature branch
 * Submit a Pull Request
 
----
 
-## 🧑‍💻 Author
-
-**Vanshika Srivastava**
-
-* [LinkedIn](https://www.linkedin.com/)
-* [GitHub](https://github.com/)
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – you are free to use and modify it with proper credit.
 
 ---
 
