@@ -6,7 +6,6 @@ Netflix Data Analysis &amp; Visualization – A beginner-friendly EDA project us
 
 # 📊 Netflix Data Analysis & Visualization
 
-![Netflix Banner](images/banner.png) <!-- Optional banner image -->
 
 ## 📌 Description
 
@@ -84,19 +83,19 @@ Netflix-Data-Analysis/
 
 ### 1️⃣ **Top Genres on Netflix**
 
-![Top Genres](images/Top_Genres.png)
+![Top Genres](Images/Top_Genres.png)
 
 ### 2️⃣ **Trend of Content Release Over Years**
 
-![Release Trend](images/Release_Trend.png)
+![Release Trend](Images/Release_trend.png)
 
 ### 3️⃣ **Word Cloud of Movie Titles**
 
-![Word Cloud](images/Word_Cloud.png)
+![Word Cloud](Images/Word_Cloud.png)
 
 ### 4️⃣ **Ratings Distribution**
 
-![Ratings Distribution](images/Ratings_Distribution.png)
+![Ratings Distribution](Images/Ratings_Distribution.png)
 
 ---
 
